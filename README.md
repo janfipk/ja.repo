@@ -1,3 +1,3 @@
 # ja.repo
-my namme is janfi
+my name is janfi
 place theyyala
